@@ -1,12 +1,18 @@
-
-
+#proxm{
+    padding-top: 40vh;
+}
 h1{
     text-align: center;
     
 }
-#opcoes{
+#explicacao{
     text-align: center;
-    padding-top: 30vh;
+}
+.resposta{
+    display: inline;
+}
+button{
+    display: inline;
 }
 footer{
     position: absolute;
@@ -18,3 +24,8 @@ body{
     background-color: rgb(255, 246, 209);
 }
 
+#opcoes{
+    text-align: center;
+    padding-top: 30vh;
+    
+}
