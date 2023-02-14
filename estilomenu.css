@@ -1,8 +1,13 @@
-
+@font-face {
     
+    src: url('njnaruto.ttf');
+    font-family: 'fp';
+    font-weight: normal;
+}
 
 h1{
     text-align: center;
+    font-family: 'fp';
 }
 #opcoes{
     text-align: center;
@@ -14,5 +19,7 @@ footer{
     bottom: 0%;
 }
 
-
+body{
+    font-family: 'fp';
+}
 
