@@ -18,3 +18,17 @@ body{
     background-color: rgb(255, 246, 209);
 }
 
+.button{
+    font-size: 10cw;
+    display: inline;
+    font-size: 2vh;
+    border-color: rgb(227, 105, 17);
+    border-width: 0.20cm;
+    border-style: solid;
+    margin-bottom:  0.35cm;
+    background-color: rgb(227, 139, 79);
+    
+}
+#a {
+    margin-right: 5vw;
+}
