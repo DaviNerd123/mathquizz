@@ -1,18 +1,33 @@
+body{
+    background-color: rgb(255, 246, 209);
+}
+
 #proxm{
     padding-top: 9vw;
+    
 }
 h1{
     text-align: center;
-    
 }
 #explicacao{
     text-align: center;
+    padding-top: 10vh;
+    display: none;
+    font-size: 2.5vh;
 }
+
 .resposta{
     display: inline;
 }
 button{
     display: inline;
+    font-size: 5vh;
+    border-color: rgb(227, 105, 17);
+    border-width: 0.20cm;
+    border-style: solid;
+    margin-bottom:  0.35cm;
+    background-color: rgb(227, 139, 79);
+    
 }
 footer{
     position: absolute;
@@ -20,12 +35,15 @@ footer{
     bottom: 0%;
 }
 
-body{
-    background-color: rgb(255, 246, 209);
-}
-
 #opcoes{
     text-align: center;
-    padding-top: 30vh;
+    padding-top: 20vh;
     
+}
+
+.resposta#caixa{
+    margin-right: 3vh;
+}
+#next{
+    display: none;
 }
