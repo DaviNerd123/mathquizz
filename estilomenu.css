@@ -19,16 +19,30 @@ body{
 }
 
 .button{
-    font-size: 10cw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
     display: inline;
-    font-size: 2vh;
+    text-decoration: none;
+    color: black;
+    font-size: 3vh;
     border-color: rgb(227, 105, 17);
     border-width: 0.20cm;
     border-style: solid;
     margin-bottom:  0.35cm;
     background-color: rgb(227, 139, 79);
+
+    
+}
+.button a{
+    text-decoration: none;
+    color: black;
     
 }
 #a {
     margin-right: 5vw;
+}
+.button:hover{
+    background-color: rgb(209, 118, 56);
 }

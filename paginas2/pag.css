@@ -21,6 +21,10 @@ h1{
     display: inline;
 }
 button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
     display: inline;
     font-size: 5vh;
     border-color: rgb(227, 105, 17);

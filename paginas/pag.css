@@ -21,6 +21,10 @@ h1{
     display: inline;
 }
 button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
     display: inline;
     font-size: 5vh;
     border-color: rgb(227, 105, 17);
@@ -28,6 +32,7 @@ button{
     border-style: solid;
     margin-bottom:  0.35cm;
     background-color: rgb(227, 139, 79);
+    width: 28vh;
     
 }
 footer{
@@ -41,7 +46,9 @@ footer{
     padding-top: 20vh;
     
 }
-
+button:hover{
+    background-color: rgb(209, 118, 56);
+}
 .resposta#caixa{
     margin-right: 3vh;
 }
@@ -60,4 +67,7 @@ footer{
 #numero {
     padding: 0%;
     text-align: center;
+}
+#rt1:hover{
+    font-size: 3vh;
 }
