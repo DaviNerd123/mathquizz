@@ -1,5 +1,12 @@
+#tr2:hover{
+    font-size: 3vh;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
 body{
-    background-color: rgb(255, 246, 209);
+    background-color: rgb(255, 245, 209);
 }
 
 #proxm{
@@ -32,6 +39,7 @@ button{
     border-style: solid;
     margin-bottom:  0.35cm;
     background-color: rgb(227, 139, 79);
+    width: 28vh;
     
 }
 footer{
@@ -45,7 +53,9 @@ footer{
     padding-top: 20vh;
     
 }
-
+button:hover{
+    background-color: rgb(209, 118, 56);
+}
 .resposta#caixa{
     margin-right: 3vh;
 }
@@ -64,4 +74,7 @@ footer{
 #numero {
     padding: 0%;
     text-align: center;
+}
+#rt1:hover{
+    font-size: 3vh;
 }
