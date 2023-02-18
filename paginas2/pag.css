@@ -51,7 +51,14 @@ footer{
     right: 0%;
     bottom: 0%;
 }
-
+#menu{
+    margin-left: 90%;
+    border-color: rgb(227, 105, 17);
+    border-width: 0.20cm;
+    border-style: solid;
+    background-color: rgb(227, 139, 79);
+    margin-top: 0%;
+}
 #opcoes{
     text-align: center;
     padding-top: 20vh;

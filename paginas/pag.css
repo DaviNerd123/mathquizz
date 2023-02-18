@@ -1,4 +1,11 @@
-
+#menu{
+    margin-left: 90%;
+    border-color: rgb(227, 105, 17);
+    border-width: 0.20cm;
+    border-style: solid;
+    background-color: rgb(227, 139, 79);
+    margin-top: 0%;
+}
 a{
     text-decoration:none;
     color: black;

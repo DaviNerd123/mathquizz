@@ -9,6 +9,7 @@ function erro(){
    
    
 }
+
 function acerto(){
    acertos++
    
