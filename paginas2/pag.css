@@ -67,6 +67,8 @@ button:hover{
     display: none;
 }
 #numero{
+    display: inline-block; 
+    margin-right: 90%;
     font-size: 3vh;
     max-width: 25px;
     max-height: 30px;
