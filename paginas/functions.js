@@ -20,4 +20,9 @@ function erro2(){
    styles.fontSize = "10vh"
 }
 
+function certo(){
+   img = document.getElementById('msge')
+   
+   img.style.display = "block"
+}
 

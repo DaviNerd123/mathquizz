@@ -1,3 +1,8 @@
+img{
+    width: 10vh;
+    height: 10vh;
+    display: none;
+}
 #menu{
     margin-left: 90%;
     border-color: rgb(227, 105, 17);
