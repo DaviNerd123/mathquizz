@@ -1,4 +1,26 @@
 
+
+
+
+p{
+    display: inline-block;
+}
+p#a{
+    color: blue;
+}
+p#b{
+    color: forestgreen;
+}
+p#c{
+    color: red;
+}
+p#d{
+    color: blueviolet;
+}
+p#e{
+    color: gold;
+}
+
 a{
     text-decoration:none;
     color: black;

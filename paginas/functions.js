@@ -5,9 +5,16 @@ function erro(){
    document.getElementById('msge').innerHTML = "Que pena você errou ;-;"
    explicacao.style.display = 'block'
    next.style.display = 'block'
+
    
    
 }
-function ult(){
-   document.getElementById('next').style.display ="block"
+function erro2(){
+   var explicacao = document.getElementById('explicacao')
+   explicacao.style.display = 'block'
+   styles = explicacao.style
+   styles.color = "red"
+   styles.fontSize = "10vh"
 }
+
+

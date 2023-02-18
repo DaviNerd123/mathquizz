@@ -16,7 +16,6 @@ body{
     padding-top: 9vw;
     margin: 0%;
     
-    
 }
 h1{
     text-align: center;
@@ -44,7 +43,7 @@ button{
     border-style: solid;
     margin-bottom:  0.35cm;
     background-color: rgb(227, 139, 79);
-    width: 28vh;
+    width: 34vh;
     
 }
 footer{
