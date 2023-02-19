@@ -21,9 +21,10 @@ function erro2(){
 }
 
 function certo(){
-   img = document.getElementById('msge')
-   
+   Var img = document.getElementById('msge')
+   Var img2 = document.getElementById('img')
    img.style.display = "block"
+   img2.style.display = "block"
 }
 
 function certo2(){
