@@ -1,0 +1,185 @@
+
+
+
+
+p{
+    display: inline-block;
+}
+p#a{
+    color: blue;
+}
+p#b{
+    color: forestgreen;
+}
+p#c{
+    color: red;
+}
+p#d{
+    color: blueviolet;
+}
+p#e{
+    color: gold;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+body{
+    background-color: rgb(255, 245, 209);
+}
+
+#proxm{
+    padding-top: 9vw;
+    
+}#msge{
+    margin-top: 0px;
+}
+#tr2:hover{
+    font-size: 3vh;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+body{
+    background-color: rgb(255, 245, 209);
+}
+
+#proxm{
+    padding-top: 9vw;
+    margin: 0%;
+    display: inline;
+    
+}
+h1{
+    text-align: center;
+}
+#explicacao{
+    text-align: center;
+    padding-top: 10vh;
+    display: none;
+    font-size: 2.5vh;
+
+}
+
+.resposta{
+    display: inline;
+}
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    display: inline;
+    font-size: 5vh;
+    border-color: rgb(227, 105, 17);
+    border-width: 0.20cm;
+    border-style: solid;
+    margin-bottom:  0.35cm;
+    background-color: rgb(227, 139, 79);
+    width: 28vh;
+    
+}
+footer{
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+}
+
+#opcoes{
+    text-align: center;
+    padding-top: 20vh;
+    
+}
+button:hover{
+    background-color: rgb(209, 118, 56);
+}
+.resposta#caixa{
+    margin-right: 3vh;
+}
+#next{
+    display: none;
+}
+#numero{
+    font-size: 3vh;
+    max-width: 25px;
+    max-height: 30px;
+    border-style: solid;
+    border-color: rgb(227, 105, 17);
+    border-radius: 90%;
+    background-color: blueviolet;
+}
+#numero {
+    padding: 0%;
+    text-align: center;
+}
+#rt1:hover{
+    font-size: 3vh;
+}
+
+h1{
+    text-align: center;
+}
+#explicacao{
+    text-align: center;
+    padding-top: 10vh;
+    display: none;
+    font-size: 2.5vh;
+
+}
+
+.resposta{
+    display: inline;
+}
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    display: inline;
+    font-size: 5vh;
+    border-color: rgb(227, 105, 17);
+    border-width: 0.20cm;
+    border-style: solid;
+    margin-bottom:  0.35cm;
+    background-color: rgb(227, 139, 79);
+    width: 31vh;
+    
+}
+footer{
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+}
+
+#opcoes{
+    text-align: center;
+    padding-top: 20vh;
+    
+}
+button:hover{
+    background-color: rgb(209, 118, 56);
+}
+.resposta#caixa{
+    margin-right: 3vh;
+}
+#next{
+    display: none;
+}
+#numero{
+    font-size: 3vh;
+    max-width: 25px;
+    max-height: 30px;
+    border-style: solid;
+    border-color: rgb(227, 105, 17);
+    border-radius: 90%;
+    background-color: blueviolet;
+}
+#numero {
+    padding: 0%;
+    text-align: center;
+}
+#rt1:hover{
+    font-size: 3vh;
+}
