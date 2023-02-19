@@ -10,7 +10,11 @@ function erro(){
    
 }
 
-function acerto(){
+function certo(){
    acertos++
    
+   
+   img = document.getElementById('msge')
+   
+   img.style.display = "block"
 }
