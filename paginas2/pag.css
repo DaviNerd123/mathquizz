@@ -1,6 +1,7 @@
-img{display: none;}
+
 #msge{
     margin-top: 0px;
+    display:none;
 }
 #tr2:hover{
     font-size: 3vh;
