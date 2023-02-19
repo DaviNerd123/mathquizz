@@ -1,4 +1,8 @@
-
+img{
+    width: 10vh;
+    height: 10vh;
+    
+}
 #msge{
     margin-top: 0px;
     display:none;
