@@ -10,7 +10,7 @@ img{
     border-style: solid;
     background-color: rgb(227, 139, 79);
     margin-top: 0%;
-    display:none;
+    
 }
 a{
     text-decoration:none;
@@ -25,6 +25,7 @@ body{
     
 }#msge{
     margin-top: 0px;
+   display:none;
 }
 #tr2:hover{
     font-size: 3vh;
