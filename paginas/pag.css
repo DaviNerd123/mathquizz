@@ -1,7 +1,7 @@
 img{
     width: 10vh;
     height: 10vh;
-    display: none;
+    
 }
 #menu{
     margin-left: 90%;
@@ -10,6 +10,7 @@ img{
     border-style: solid;
     background-color: rgb(227, 139, 79);
     margin-top: 0%;
+    display:none;
 }
 a{
     text-decoration:none;
