@@ -1,14 +1,17 @@
 img{
     width: 10vh;
     height: 10vh;
-    display: none;
+    display: inline;
+    
 }
+
 #menu{
     margin-left: 90%;
-    border-color: rgb(227, 105, 17);
+    border-color: darkblue;
     border-width: 0.20cm;
     border-style: solid;
-    background-color: rgb(227, 139, 79);
+    background-color: aquamarine;
+    border-radius: 10%;
     margin-top: 0%;
 }
 a{
@@ -24,6 +27,7 @@ body{
     
 }#msge{
     margin-top: 0px;
+    display: none;
 }
 #tr2:hover{
     font-size: 3vh;
@@ -63,11 +67,12 @@ button{
     padding-right: 3px;
     display: inline;
     font-size: 5vh;
-    border-color: rgb(227, 105, 17);
+    border-color: darkblue;
     border-width: 0.20cm;
     border-style: solid;
+    border-radius: 30%;
     margin-bottom:  0.35cm;
-    background-color: rgb(227, 139, 79);
+    background-color: aquamarine;
     width: 28vh;
     
 }
@@ -82,8 +87,9 @@ footer{
     padding-top: 20vh;
     
 }
+
 button:hover{
-    background-color: rgb(209, 118, 56);
+    background-color: rgba(127, 255, 212, 0.674);
 }
 .resposta#caixa{
     margin-right: 3vh;
@@ -95,8 +101,8 @@ button:hover{
     display: inline-block; 
     margin-right: 90%;
     font-size: 3vh;
-    max-width: 40px;
-    max-height: 30px;
+    max-width: 80px;
+    max-height: 80px;
     border-style: solid;
     border-color: rgb(227, 105, 17);
     border-radius: 90%;
@@ -131,11 +137,11 @@ button{
     padding-right: 3px;
     display: inline;
     font-size: 5vh;
-    border-color: rgb(227, 105, 17);
+    border-color: darkblue;
     border-width: 0.20cm;
     border-style: solid;
     margin-bottom:  0.35cm;
-    background-color: rgb(227, 139, 79);
+    background-color: aquamarine;
     width: 31vh;
     
 }
@@ -150,9 +156,7 @@ footer{
     padding-top: 20vh;
     
 }
-button:hover{
-    background-color: rgb(209, 118, 56);
-}
+
 .resposta#caixa{
     margin-right: 3vh;
 }

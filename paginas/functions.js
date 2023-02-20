@@ -22,7 +22,9 @@ function erro2(){
 
 function certo(){
    img = document.getElementById('msge')
+  
    
    img.style.display = "block"
+   
 }
 
