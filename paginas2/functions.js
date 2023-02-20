@@ -9,8 +9,18 @@ function erro(){
    
    
 }
-
-function acerto(){
+function erro2(){
+   var explicacao = document.getElementById('explicacao')
+   explicacao.style.display = 'block'
+   styles = explicacao.style
+   styles.color = "red"
+   styles.fontSize = "10vh"
+}
+function certo(){
    acertos++
    
+   
+   img = document.getElementById('msge')
+   
+   img.style.display = "block"
 }

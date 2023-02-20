@@ -21,6 +21,15 @@ function erro2(){
 }
 
 function certo(){
+    
+   
+   
+   var img = document.getElementById('msge')
+   
+   img.style.display = "block"
+}
+
+function certo2(){
    img = document.getElementById('msge')
   
    
