@@ -66,11 +66,12 @@ button{
     padding-right: 3px;
     display: inline;
     font-size: 5vh;
-    border-color: rgb(227, 105, 17);
+    border-color: darckBlue;
     border-width: 0.20cm;
     border-style: solid;
     margin-bottom:  0.35cm;
-    background-color: rgb(227, 139, 79);
+    border-radius:  30%
+    background-color: babyBlue;
     width: 28vh;
     
 }
