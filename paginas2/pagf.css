@@ -23,10 +23,11 @@ p#e{
 
 a{
     text-decoration:none;
-    color: black;
+    color: white;
 }
 body{
-    background-color: white;
+    background-color: black;
+    Color:red;
 }
 
 #proxm{
@@ -40,10 +41,10 @@ body{
 }
 a{
     text-decoration:none;
-    color: black;
+    color: white;
 }
 body{
-    background-color: white;
+    background-color: black;
 }
 
 #proxm{
