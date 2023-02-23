@@ -11,7 +11,8 @@ a{
     color: black;
 }
 body{
-    background-color: white;
+    Color: red;
+    background-color: black;
     text-align: center;
 }
 p{
@@ -29,10 +30,11 @@ p{
 }
 a{
     text-decoration:none;
-    color: black;
+    color: white;
 }
 body{
-    background-color: rgb(255, 245, 209);
+    background-color: black;
+    Color:red;
 }
 
 #proxm{
