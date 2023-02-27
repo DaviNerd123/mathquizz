@@ -11,7 +11,11 @@ a{
     color: black;
 }
 body{
-    background-color: rgb(255, 245, 209);
+    Color: red;
+    background-color: black;
+    text-align: center;
+}
+p{
     text-align: center;
 }
 
@@ -26,10 +30,11 @@ body{
 }
 a{
     text-decoration:none;
-    color: black;
+    color: white;
 }
 body{
-    background-color: rgb(255, 245, 209);
+    background-color: black;
+    Color:red;
 }
 
 #proxm{
@@ -87,9 +92,7 @@ button:hover{
 .resposta#caixa{
     margin-right: 3vh;
 }
-#next{
-    display: block;
-}
+
 #numero{
     font-size: 3vh;
     max-width: 25px;
@@ -153,9 +156,8 @@ button:hover{
 .resposta#caixa{
     margin-right: 3vh;
 }
-#next{
-    display: block;
-}
+
+
 #numero{
     font-size: 3vh;
     max-width: 25px;

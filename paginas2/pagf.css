@@ -26,7 +26,7 @@ a{
     color: black;
 }
 body{
-    background-color: rgb(255, 245, 209);
+    background-color: white;
 }
 
 #proxm{
@@ -43,7 +43,7 @@ a{
     color: black;
 }
 body{
-    background-color: rgb(255, 245, 209);
+    background-color: white;
 }
 
 #proxm{
@@ -73,11 +73,11 @@ button{
     padding-right: 3px;
     display: inline;
     font-size: 5vh;
-    border-color: rgb(227, 105, 17);
+    border-color: darkblue;
     border-width: 0.20cm;
     border-style: solid;
     margin-bottom:  0.35cm;
-    background-color: rgb(227, 139, 79);
+    background-color: aquamarine;
     width: 28vh;
     
 }
@@ -92,9 +92,7 @@ footer{
     padding-top: 20vh;
     
 }
-button:hover{
-    background-color: rgb(209, 118, 56);
-}
+
 .resposta#caixa{
     margin-right: 3vh;
 }
@@ -132,21 +130,7 @@ h1{
 .resposta{
     display: inline;
 }
-button{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 3px;
-    padding-right: 3px;
-    display: inline;
-    font-size: 5vh;
-    border-color: rgb(227, 105, 17);
-    border-width: 0.20cm;
-    border-style: solid;
-    margin-bottom:  0.35cm;
-    background-color: rgb(227, 139, 79);
-    width: 31vh;
-    
-}
+
 footer{
     position: absolute;
     right: 0%;
@@ -159,7 +143,7 @@ footer{
     
 }
 button:hover{
-    background-color: rgb(209, 118, 56);
+    background-color: rgba(127, 255, 212, 0.687);
 }
 .resposta#caixa{
     margin-right: 3vh;
