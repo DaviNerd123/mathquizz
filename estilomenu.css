@@ -1,12 +1,82 @@
-
-
-h1{
-    text-align: center;
+img{
+    width: 10vh;
+    height: 10vh;
+    display: inline;
     
 }
-#opcoes{
+
+#menu{
+    margin-left: 90%;
+    border-color: darkblue;
+    border-width: 0.20cm;
+    border-style: solid;
+    background-color: aquamarine;
+    border-radius: 10%;
+    margin-top: 0%;
+    
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+body{
+    background-color: white;
+}
+
+#proxm{
+    padding-top: 9vw;
+    
+}
+#msge{
+    margin-top: 0px;
+    display: none;
+}
+#tr2:hover{
+    font-size: 3vh;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+body{
+    background-color: white;
+}
+
+#proxm{
+    padding-top: 9vw;
+    margin: 0%;
+    display: inline;
+    
+}
+h1{
     text-align: center;
-    padding-top: 30vh;
+}
+#explicacao{
+    text-align: center;
+    padding-top: 10vh;
+    display: none;
+    font-size: 2.5vh;
+
+}
+
+.resposta{
+    display: inline;
+}
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    display: inline;
+    font-size: 5vh;
+    border-color: darkblue;
+    border-width: 0.20cm;
+    border-style: solid;
+    border-radius: 30%;
+    margin-bottom:  0.35cm;
+    background-color: aquamarine;
+    width: 28vh;
+    
 }
 footer{
     position: absolute;
@@ -14,35 +84,100 @@ footer{
     bottom: 0%;
 }
 
-body{
-    background-color: white;
+#opcoes{
+    text-align: center;
+    padding-top: 20vh;
+    
 }
 
-.button{
+button:hover{
+    background-color: rgba(127, 255, 212, 0.674);
+}
+.resposta#caixa{
+    margin-right: 3vh;
+}
+#next{
+    display: none;
+}
+#numero{
+    display: inline-block; 
+    margin-right: 90%;
+    font-size: 3vh;
+    max-width: 80px;
+    max-height: 80px;
+    border-style: solid;
+    border-color: rgb(227, 105, 17);
+    border-radius: 90%;
+    background-color: blueviolet;
+}
+#numero {
+    padding: 0%;
+    text-align: center;
+}
+#rt1:hover{
+    font-size: 3vh;
+}
+
+h1{
+    text-align: center;
+}
+#explicacao{
+    text-align: center;
+    padding-top: 10vh;
+    display: none;
+    font-size: 2.5vh;
+
+}
+
+.resposta{
+    display: inline;
+}
+button{
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 3px;
     padding-right: 3px;
     display: inline;
-    text-decoration: none;
-    color: black;
-    font-size: 3vh;
-    border-color: rgb(227, 105, 17);
+    font-size: 5vh;
+    border-color: darkblue;
     border-width: 0.20cm;
     border-style: solid;
     margin-bottom:  0.35cm;
-    background-color: rgb(227, 139, 79);
+    background-color: aquamarine;
+    width: 31vh;
+    
+}
+footer{
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+}
 
+#opcoes{
+    text-align: center;
+    padding-top: 20vh;
     
 }
-.button a{
-    text-decoration: none;
-    color: black;
-    
+
+.resposta#caixa{
+    margin-right: 3vh;
 }
-#a {
-    margin-right: 5vw;
+#next{
+    display: none;
 }
-.button:hover{
-    background-color: rgb(209, 118, 56);
+#numero{
+    font-size: 3vh;
+    max-width: 25px;
+    max-height: 30px;
+    border-style: solid;
+    border-color: rgb(227, 105, 17);
+    border-radius: 90%;
+    background-color: blueviolet;
+}
+#numero {
+    padding: 0%;
+    text-align: center;
+}
+#rt1:hover{
+    font-size: 3vh;
 }
